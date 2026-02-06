@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="finalamazon/finalamazon.vcxproj" Id="a0265501-9c24-4e86-b537-858cd9d37d61" />
+</Solution>
